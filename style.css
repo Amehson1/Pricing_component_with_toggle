@@ -3,6 +3,7 @@
 :root{
     --font:'Montserrat';
     --font-size: 15PX;
+    --font-weight: 700;
     --gradient-begin: hsl(236, 72%, 79%);
     --gradient-end: hsl(237, 63%, 64%);
     --very-light-blue: hsl(240, 78%, 98%);
